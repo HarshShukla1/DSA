@@ -13,7 +13,7 @@ public class MoveZero {
             }
         }
 
-        // Fill remaining positions with zero
+        // Fill remaining positions with zero hey
         while (j < nums.length) {
             nums[j] = 0;
             j++; */
