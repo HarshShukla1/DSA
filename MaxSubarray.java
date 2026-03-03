@@ -8,10 +8,6 @@ public class MaxSubarray {
             res = Math.max(maxEnding, res);
             
         }
-
-
-
-
         return res;
     }
     public static void main(String[] args) {
